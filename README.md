@@ -1,4 +1,4 @@
-![Aplicativo lista](../aplicativo-com-ia/imagem/monteLista.png)
+![Aplicativo lista](../imagem/monteLista.png)
 
 # Lista de Tarefas Simples com React 
 
